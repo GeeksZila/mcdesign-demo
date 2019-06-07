@@ -159,15 +159,15 @@
       </li>
 
                   <li>
-    <a  class="main-nav__link tx--title-3" href="news.html" title="News &amp; Press" >News &amp; Press</a>
+    <a  class="main-nav__link tx--title-3" href="./news.html" title="News &amp; Press" >News &amp; Press</a>
       </li>
 
                   <li>
-    <a  class="main-nav__link tx--title-3" href="connect.html" title="Connect" >Connect</a>
+    <a  class="main-nav__link tx--title-3" href="./connect.html" title="Connect" >Connect</a>
       </li>
 
                   <li>
-    <a  class="main-nav__link tx--title-3" href="careers.html" title="Careers" >Careers</a>
+    <a  class="main-nav__link tx--title-3" href="./careers.html" title="Careers" >Careers</a>
       </li>
 
               </ul>
